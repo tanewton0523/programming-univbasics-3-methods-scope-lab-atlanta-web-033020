@@ -14,6 +14,6 @@ def link
   puts receive_sword
 end
 
-def any_phrase(phrase)
+def all_phrase(phrase)
    puts phrase
  end 
